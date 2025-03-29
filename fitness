@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фітнес Студія</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #ff5733;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 50px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            background: #ff5733;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+        }
+        .cta-button:hover {
+            background: #e04e2a;
+        }
+        footer {
+            background: #333;
+            color: white;
+            padding: 20px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ласкаво просимо до Фітнес Студії</h1>
+    </header>
+    <section>
+        <h2>Досягни своїх фітнес-цілей разом з нами!</h2>
+        <p>Професійні тренери, сучасне обладнання та дружня атмосфера.</p>
+        <a href="#" class="cta-button">Записатись на тренування</a>
+    </section>
+    <footer>
+        <p>&copy; 2025 Фітнес Студія. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
